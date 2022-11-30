@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BULLET 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(255,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(255,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(271,164): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(272,164): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(282,139): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(310,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(310,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(325,73): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(326,73): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(363,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(363,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(378,73): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(379,73): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(386,75): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(387,75): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(429,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(432,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(433,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(440,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(440,71): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(459,74): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(460,74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(593,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(638,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(700,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(646,7): warning C4101: 'text': unreferenced local variable
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(780,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(782,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(784,99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(786,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(788,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\1st semester\BULLET 2\BULLET 2\main.cpp(873,46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  BULLET 2.vcxproj -> C:\Users\User\Desktop\1st semester\BULLET 2\x64\Debug\BULLET2.exe

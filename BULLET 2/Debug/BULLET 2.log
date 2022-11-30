@@ -1,0 +1,34 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\BULLET 2\BULLET 2\Source.cpp(93,15): warning C4101: 'eti': unreferenced local variable
+Source.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_RWFromFile referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_MapRGB referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_CreateRGBSurface referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_FreeSurface referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_LoadBMP_RW referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_SetColorKey referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_FillRect referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_UpperBlit referenced in function "void __cdecl DrawString(struct SDL_Surface *,int,int,char const *,struct SDL_Surface *)" (?DrawString@@YAXPAUSDL_Surface@@HHPBD0@Z)
+Source.obj : error LNK2019: unresolved external symbol _SDL_SetWindowTitle referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_ShowCursor referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_SetHint referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_CreateWindowAndRenderer referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_CreateTexture referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_UpdateTexture referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_RenderSetLogicalSize referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_SetRenderDrawColor referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_RenderCopy referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_RenderPresent referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_DestroyTexture referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_DestroyRenderer referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_GetTicks referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function _SDL_main
+Source.obj : error LNK2019: unresolved external symbol _SDL_Quit referenced in function _SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\dev\SDL@\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\dev\SDL@\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\dev\SDL2_image-2.0.5\lib\x64\SDL2_image.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\dev\SDL2_ttf-2.0.15\lib\x64\SDL2_ttf.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\User\source\repos\BULLET 2\Debug\BULLET 2.exe : fatal error LNK1120: 27 unresolved externals
